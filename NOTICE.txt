@@ -1,0 +1,54 @@
+Auth0 Native Components — Android Sample
+Copyright 2024 Okta, Inc.
+
+This product is licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+This product includes software developed by third parties under the following licenses:
+
+---
+
+Auth0 Android SDK
+https://github.com/auth0/Auth0.Android
+Copyright (c) Auth0, Inc.
+Licensed under the MIT License.
+
+---
+
+Auth0 Universal Components for Android
+Copyright (c) Auth0, Inc. (Okta, Inc.)
+Licensed under the Apache License, Version 2.0.
+
+---
+
+AndroidX Libraries (Core, Lifecycle, Activity, Navigation, Compose)
+https://developer.android.com/jetpack/androidx
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+Kotlin Standard Library and Extensions
+https://kotlinlang.org/
+Copyright (c) 2010–2024 JetBrains s.r.o. and Kotlin contributors
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+Jetpack Compose
+https://developer.android.com/jetpack/compose
+Copyright (c) The Android Open Source Project
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+Material Design Components for Android
+https://github.com/material-components/material-components-android
+Copyright (c) Google LLC
+Licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
